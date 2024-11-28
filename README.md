@@ -4,7 +4,7 @@ PredPump is an open prediction market that allows everyone to create and vote on
 
 ## [🔗Link to the live dapp🔗](https://predpump.wtf/)
 
-## [🔗Link to Product Showcase @ EthGlobal🔗](https://ethglobal.com/showcase/predpump-q8gxc)
+## [🔗Link to Product Showcase @EthGlobal-Bangkok🔗](https://ethglobal.com/showcase/predpump-q8gxc)
 
 ## ‼️ Problem Statement
 
